@@ -1,0 +1,2 @@
+Este es un Ejercicio de Python donde veremos la resolucion en una Operacion Aritmetica, 
+plasmando de forma algoritmica una operacion matematica.
